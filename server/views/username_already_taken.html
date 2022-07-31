@@ -1,0 +1,26 @@
+{% block customstyles %}
+<style>
+  .container {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(185, 185, 185);
+  }
+
+  .anchor {
+    margin-left: 150px;
+    color: mediumblue;
+    font-size: revert;
+  }
+</style>
+{% endblock %} {% block body %}
+
+<body class="container">
+  <h1>
+    Username Already Taken, Please Try Another One<br />
+    <a class="anchor" href="/register">Back to Register</a>
+  </h1>
+</body>
+
+{% endblock %}

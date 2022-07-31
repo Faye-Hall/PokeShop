@@ -1,0 +1,143 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto";
+}
+body {
+  background-color: rgb(185, 185, 185);
+}
+
+.logo:hover {
+  color: gray;
+}
+
+.account-icon {
+  position: relative;
+  right: 10px;
+}
+
+.account-cart-spans {
+  display: flex;
+}
+
+.account-cart-spans:hover {
+  display: flex;
+  color: gray;
+}
+
+.acct-form {
+  width: 300px;
+  font-size: 50px;
+  text-align: center;
+  margin-left: 43%;
+  margin-top: 10%;
+  font-weight: 100;
+}
+.acct-label {
+  position: relative;
+  top: 30px;
+}
+
+.acct-input {
+  border-style: none;
+  width: 200px;
+  height: 200px;
+  font-size: 50px;
+  text-align: center;
+  pointer-events: none;
+  font-weight: 100;
+  background-color: rgb(185, 185, 185);
+}
+
+.cart-icon {
+  position: relative;
+  left: 10px;
+}
+
+.log-link:hover {
+  color: gray;
+  text-decoration: none;
+}
+
+.poke-img {
+  height: 50%;
+  width: 50%;
+
+  margin-bottom: 5%;
+}
+
+.price {
+  display: flex;
+  align-items: center;
+  padding: 5px 0px;
+}
+
+.pokemon {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-bottom: -17px;
+
+  padding-top: 10px;
+}
+.amt-icons {
+  display: flex;
+  justify-content: flex-end;
+}
+.add-icon {
+  color: rgb(19, 165, 19);
+}
+
+.remove-icon {
+  color: rgb(231, 82, 82);
+}
+
+.qty {
+  font-weight: 500;
+  font-size: 11px;
+}
+.amt {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-top: 35px;
+  margin-right: 5px;
+}
+
+.MuiTextField-root > label {
+  color: black !important;
+}
+
+.pokeball-icon {
+  color: #ff3131;
+  position: fixed;
+  margin-left: 5px;
+  top: 170px;
+}
+
+.signup-form:hover {
+  background-color: rgba(191, 191, 191, 0.3);
+}
+
+input[type="search"]::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+}
+
+.log-search-spans {
+  display: flex;
+}
+
+.disable_clicks * {
+  pointer-events: none;
+}
+.login-register {
+  position: absolute;
+  top: 79%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.login-register-padding {
+  padding-right: 10px;
+}
