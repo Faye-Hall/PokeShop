@@ -2,7 +2,7 @@
 
 #### 1. What goal will your website be designed to achieve? What kind of users will visit your site?
 
-The goal of this website is to present the user with easy to use ecommerence shop for all of the Pokemon. The type of user who will be vistiing my site will be ones who enjoy Pokemon and want to have an enjoyable experience searching for and collecting them.
+The goal of this website is to present the user with easy to use ecommerence shop for all of the Pokemon. The type of user who will be visting my site will be ones who enjoy Pokemon and want to have an enjoyable experience searching for and collecting them.
 
 #### 2. What data do you plan on using? You may have not picked your actual API yet, which is fine, just outline what kind of data you would like it to contain.
 
