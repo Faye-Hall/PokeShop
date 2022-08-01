@@ -1,4 +1,4 @@
-# PokeShop
+# PokéShop
 
 https://user-images.githubusercontent.com/82423399/182052474-2f945cc6-add2-4501-8275-2af4ec2372d9.mp4
 
