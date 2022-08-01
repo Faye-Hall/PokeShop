@@ -1,5 +1,7 @@
 # PokeShop
 
+https://user-images.githubusercontent.com/82423399/182052474-2f945cc6-add2-4501-8275-2af4ec2372d9.mp4
+
 #### 1. What goal will your website be designed to achieve? What kind of users will visit your site?
 
 The goal of this website is to present the user with easy to use ecommerence shop for all of the Pokemon. The type of user who will be visting my site will be ones who enjoy Pokemon and want to have an enjoyable experience searching for and collecting them.
