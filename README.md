@@ -1,7 +1,7 @@
 # PokéShop
 
 https://user-images.githubusercontent.com/82423399/182052474-2f945cc6-add2-4501-8275-2af4ec2372d9.mp4
-https://github.com/Faye-Hall/PokeShop/assets/82423399/813a1ef6-3581-4e13-9e02-b8a6fcf7cc01
+
 
 #### 1. What goal will your website be designed to achieve? What kind of users will visit your site?
 
